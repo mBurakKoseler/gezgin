@@ -83,8 +83,14 @@ Gezgin projesi, PHP öğrenen geliştiricilere hem backend hem de frontend geli�
 📌 Şehri seç, rotanı oluştur, keşfetmeye başla!
 
 ![image](https://github.com/user-attachments/assets/67587c30-3a0c-4f74-9d24-570c4c98a8ab)
+
+
 ![image](https://github.com/user-attachments/assets/790eb686-7609-4c05-8951-4476433cc5f4)
+
+
 ![image](https://github.com/user-attachments/assets/5f1ae2e9-4cd6-4280-8403-c77663edf437)
+
+
 ![image](https://github.com/user-attachments/assets/a7a641d7-8985-4482-8cef-5302d6d567c1)
 
 
